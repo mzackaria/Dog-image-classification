@@ -11,3 +11,4 @@ Vous trouverez dans ce dossier:
 - Un notebook présentant un fine tunning du reseaux VGG16.
 - Un notebook présentant un fine tuning du reseaux resnet50
 - le support de la présentation
+- le code qui présente la méthode
