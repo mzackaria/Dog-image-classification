@@ -12,3 +12,7 @@ Vous trouverez dans ce dossier:
 - Un notebook présentant un fine tuning du reseaux resnet50
 - le support de la présentation
 - le code qui présente la méthode
+
+
+
+Nous avons opté comme solution finale un fine tunning de réseaux resnet50 avec un résultat de 78% de réussite.
